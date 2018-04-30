@@ -36,7 +36,7 @@ author:
   name:              Foo Boo
   url:               https://twitter.com/abcd
   avatar:         foo.png
-  #email:           
+  email:          dooyeoung.ryu@gmail.com
 
 # Owner/author information
 owner:
@@ -46,8 +46,8 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
+  #twitter:        abcd
+  #facebook:       
   github:         xyz123abc
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
@@ -72,16 +72,16 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
+#  - title: <i class="iconside iconm-wordpress"></i> Old Blog
+#    url: https://foo.wordpress.com
+#    external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+#  - title: <i class="iconside iconm-twitter"></i> Twitter
+#    url: https://twitter.com/abcd
+#    external: true
+#  - title: <i class="iconside iconm-feed2"></i> Feed
+#    url: /feed.xml
 
 # Google Custom Search:
 #google_search: xyz123abc
