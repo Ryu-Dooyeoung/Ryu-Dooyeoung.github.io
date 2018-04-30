@@ -9,12 +9,12 @@ relative_permalinks: false
 title:               foo
 #tagline:             'foo's website
 description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+url: https://dooyeoung.github.io/
+baseurl: "/"
+urlimg: /images
 markdown: kramdown
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/page:num"
 excerpt_separator: <!--more-->
 default_bg: sitelogo.png 
 safe: false
