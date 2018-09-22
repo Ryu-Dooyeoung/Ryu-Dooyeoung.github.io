@@ -1,4 +1,4 @@
-title: Researcher
+title: Resume
 url: "https://dooyeoung.github.io/"
 baseurl: ""
 
@@ -7,8 +7,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "r"
+footer_url: ""
+footer_text: "dooyeoung.ryu@gmail.com"
 
 sass:
     style: compressed
@@ -18,6 +18,6 @@ nav:
  - name: "About"
    link: "index"
  - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "resume.pdf" 
+ - name: "Post"
+   link: "Post"
