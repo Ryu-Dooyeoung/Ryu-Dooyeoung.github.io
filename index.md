@@ -4,15 +4,24 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="rdy.png">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/dooyeoung.ryu)
 
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
+## 경력사항
+2015. 02–2017.12  아라엔지니어링  IT Team, 대리
+software 개발
+OTS(Operator Training Simulator) software 개발
+HYSY, DeltaV, Synergi 제어 프로그램 개발
+HMI instructor graphic module 개발
+PDMS utility software 개발
+\*.rvm file converter 개발
 
 ## Publications
 
