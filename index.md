@@ -25,7 +25,7 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 ---
 
 # Project
-1. **e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python*] <br>
+1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python*] <br>
 상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
 	- 상품정보, 영양정보 입력
 	- 상품이미지 일괄 제작
