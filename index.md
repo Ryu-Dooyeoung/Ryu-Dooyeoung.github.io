@@ -83,7 +83,6 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
 		- rvm 파일 구조 파악
 		- fbx file 변환
-		
 <br><br>
 1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** [*C#, GDI+, MySQL*]
 	- OTS 제어 프로그램 개발
@@ -117,12 +116,12 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 		- php, mysql를 이용한 단어장 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
 		- 복습 주기를 망각곡선에 기반하여 구현
-
 <br><br>
 1. **2015.08–2015.10 > 원룸 검색 서비스** [*PHP, MySQL, Bootstrap, JQuery, FPBatis*]
 	- 기획 및 개발 [**link**](http://13.209.50.95:8877/room/)
 		- php, mysql를 이용한 원룸 검색 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
 		- 간단한 검색기능, 임차인, 임대인 기능 구현
+
 <br><br>
 ---
