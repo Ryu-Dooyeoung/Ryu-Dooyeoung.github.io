@@ -72,12 +72,18 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 		- train data store 별로 데이터 취합
 	- Data Analysis
 		- OLS을 이용하여 Regression 분석
-<br><br>
+<br><br> 
 1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** [*C#*]
 	- UnisimDesign, OLGA 제어 프로그램 개발
 		- Unisim, Olga, Synergi 제어프로그램 개발
 		- OPC Client 기능 구현
 		- TCP/IP 기반으로 제어 모듈 개발
+<br><br>
+1. **2017.07 – 2017.09 > RVM Utility 개발 (아라엔지니어링/IT)** [*C#*]
+	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
+		- rvm 파일 구조 파악
+		- fbx file 변환
+		
 <br><br>
 1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** [*C#, GDI+, MySQL*]
 	- OTS 제어 프로그램 개발
@@ -101,9 +107,22 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 		- 예약 연장 기능 구현
 <br><br>
 1. **2015.11–2015.12 > 설문조사 서비스** [*PHP, MySQL, Bootstrap, JQuery*]
-	- 기획 및 개발
+	- 기획 및 개발 [**link**](http://13.209.50.95:8877/survey/)
 		- php, mysql를 이용한 설문조사 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
 		- 설문양식 조회, 작성 기능 구현
+<br><br>
+1. **2015.10–2015.11 > 단어장 서비스** [*PHP, MySQL, Bootstrap, JQuery*]
+	- 기획 및 개발 [**link**](http://13.209.50.95:8877/wordnote/)
+		- php, mysql를 이용한 단어장 서비스 구현
+		- Bootstrap으로 레이아웃 디자인
+		- 복습 주기를 망각곡선에 기반하여 구현
+
+<br><br>
+1. **2015.08–2015.10 > 원룸 검색 서비스** [*PHP, MySQL, Bootstrap, JQuery, FPBatis*]
+	- 기획 및 개발 [**link**](http://13.209.50.95:8877/room/)
+		- php, mysql를 이용한 원룸 검색 서비스 구현
+		- Bootstrap으로 레이아웃 디자인
+		- 간단한 검색기능, 임차인, 임대인 기능 구현
 <br><br>
 ---
