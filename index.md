@@ -25,7 +25,12 @@ Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
 ---
 
 # Project
-
+1. **e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python*] <br>
+상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
+	- 상품정보, 영양정보 입력
+	- 상품이미지 일괄 제작
+	- gmarket 자동등록 기능구현
+<br><br>
 1. **2018.07 - 2018.07 > Walmart Store Sales Forecasting** [*Python*] <br>
 날씨, 매장정보, 유가, 실업률과 주별 판매량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
 	- Data Preprocessing
