@@ -45,19 +45,16 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 # Project
 ### 2020
-
 1. **cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
  	[*Python, Vue, D3, Flask*] <br>
 	- 페이스북 API를 사용한 광고 데이터 수집
 	- Python을 사용한 Cafe24 매출 데이터 수집
 	- Vue를 사용하여 매출과 광고 대시보드 구현
 <br><br>
-
 1. **사내 ERP 개발** [*Python, Vue, D3, Flask*] <br>
 	- shopify 주문 수집 및 fullfillment 기능 개발
 	- cafe24 커스텀 주문 주문서 기능 개발
 <br><br>
-
 1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** <br>
 	 [*Python, React*]  <br>
 
@@ -66,18 +63,16 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 해시태그와 해시태그 
 
 ### 2019 
-
-1. **2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출 , 팀 프로젝트)**  <br>
+1. **2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출**  <br>
 	[*Python*]<br>
 
-	이미지에서 얼굴 인식 후 부위별 색상 추출<br>
+	이미지에서 얼굴 인식 후 부위별 색상 추출
 	- 색상 추출 모듈 개발
 	- Face-alignment를 사용하여 얼굴 인식 모듈 개발
 	- opencv를 사용하여 이미지 회전을 복원
 	- k-means를 사용하여 얼굴 부위별 색상 추출
-<br><br> 
-
-1. **2018. 10 - 2019.12 > 마이셀럽스X카카오페이지 취향 추천 모듈 구현 (팀 프로젝트)** <br>
+<br><br>
+1. **2018. 10 - 2019.12 > 마이셀럽스X카카오페이지 취향 추천 모듈 구현** <br>
 	[*Python, Flask, Bootskrap, Jquery*] <br>
 
 	마이셀럽스의 개체별 키토크 점수를 활용한 취향 추천
@@ -85,8 +80,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 장르, 배우, 감독 선호도 뿐만 아니라 키토크 별 취향 대시보드 구현
 	- 취향분석을 바탕으로 새로운 개체 추천
 <br><br> 
-
-1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 (팀 프로젝트)** <br>
+1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 ** <br>
 	[*Python, Flask, Bootskrap, Jquery*] <br>
 
 	다수의 색상과 비율조합을 검색에 사용하여 이미지를 검색 [**link**](https://github.com/dooyeoung/e-commerce_util)
@@ -96,7 +90,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 색상 계열 구분과 색상 검색 결과를 사용하여 색상 검색 모듈 개발
 
 ### 2018 
-
 1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** <br>
 	 [*Python, Jquery*]<br>
 
@@ -163,7 +156,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- OLS을 이용하여 Regression 분석
 
 ### 2017 
-
 1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** <br>
 	 [*C#, TCP/IP*] <br>
 	- UnisimDesign, OLGA 제어 프로그램 개발
@@ -171,7 +163,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- OPC Client 기능 구현
 		- TCP/IP 기반으로 제어 모듈 개발
 <br><br>
-
 1. **2017.07 – 2017.09 > RVM Utility 개발 (아라엔지니어링/IT)** <br>
 	 [*C#, 3D*]<br>
 	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
