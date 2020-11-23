@@ -28,9 +28,9 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 1. 2018.11 ~ 2020.01 - 마이셀럽스 Data Team
 	- 이미지 색상 추출 색상 검색 모듈 개발
-	- 마이셀럽스 Glamai  [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US)
+	- 마이셀럽스 [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US)
 		- 화장품의 색상 정보 점수화
-	- 영화 검색 및 추천 서비스 Maimovie [**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
+	- 영화 검색 및 추천 서비스 [**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
 		- 영화 리뷰에서 추출한 키워드 점수를 활용한 추천 
 		- 사용자가 선택한 영화의 키워드 점수를 시각화 하여 취향 대시보드 구현
 1. 2018.01 ~ 2018.05 - 패스트캠퍼스 (Data Sience School 7기)
@@ -60,7 +60,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** <br>
 	 [*Python, React*]  <br>
-	 
+
 	- Python을 활용한 인스타그램 검색 결과수집
 	- Vue를 사용하여 해시태그 언급량 대시보드 구현 
 	- 해시태그와 해시태그 
