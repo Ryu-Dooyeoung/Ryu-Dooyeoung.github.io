@@ -7,14 +7,26 @@ layout: default
 
 류두영 / Dooyeoung Ryu / 柳斗榮 <br>
 dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
-Python / C# / Java / C++ / PHP / Flask / HTML / JQuery / MySQL <br>
+Python / Vue / D3  <br>
+Flask / HTML / Javascript / C# / Java / C++ / PHP / MySQL <br>
 [**GitHub**](https://github.com/dooyeoung)
 
 ---
 
 # Career
+1. 2020.01 –  > 시티스푸너스 IT Team
+	- cafe24 매출데이터와 페이스북 광고데이터 대시보드 구축
+	- 사내 ERP 구축 
+		- shopify 자동 주문 수집 및 fullfillment 
+	- 쇼핑몰 기능 커스터마이즈
+		- 레터링 커스텀 주문 기능 개발
 
-1. 2018.01 – 2018.05 > 패스트캠퍼스 (데이터 사이언스 스쿨 7기)
+1. 2018.11 – 2020.01 > 마이셀럽스 Data Team
+	- 이미지 색상 추출 색상 검색 모듈 개발
+	- 마이셀럽스 키토크 점수를 활용한 컨텐츠 추천
+		- [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US),
+		[**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
+1. 2018.01 – 2018.05 > 패스트캠퍼스 (Data Sience School 7기)
 1. 2015.02 – 2017.12 > 아라엔지니어링  IT Team, 대리 
 	- OTS(Operator Training Simulator) software 개발
 		- HYSY, DeltaV, Synergi 제어 프로그램 개발
