@@ -7,8 +7,9 @@ layout: default
 
 류두영 / Dooyeoung Ryu  [**GitHub**](https://github.com/dooyeoung) <br>
 dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
+[**blog**](https://dooyeoung.tistory.com/)
 
-<hr>
+<br>
 1. 관심분야 
 	- 데이터 시각화, 데이터 분석, 업무 자동화
 1. 보유기술 
@@ -19,9 +20,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 
 ---
-# Education
-
-
 
 # Career
 1. 2020.01 ~ 시티스푸너스 IT Team
@@ -33,9 +31,12 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 1. 2018.11 ~ 2020.01 - 마이셀럽스 Data Team
 	- 이미지 색상 추출 색상 검색 모듈 개발
-	- 마이셀럽스 키토크 점수를 활용한 컨텐츠 추천
-		- [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US),
-		[**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
+	
+	- 마이셀럽스 Glamai  [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US)
+		- 화장품의 색상 정보 점수화
+	- 영화 검색 및 추천 서비스 Maimovie [**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
+		- 영화 리뷰에서 추출한 키워드 점수를 활용한 추천 
+		- 사용자가 선택한 영화의 키워드 점수를 시각화 하여 취향 대시보드 구현
 1. 2018.01 ~ 2018.05 - 패스트캠퍼스 (Data Sience School 7기)
 1. 2015.02 ~ 2017.12 - 아라엔지니어링  IT Team, 대리 
 	- OTS(Operator Training Simulator) software 개발
