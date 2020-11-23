@@ -44,21 +44,25 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ---
 
 # Project
+<br><b>2020</b><br>
+
 1. **cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  [*Python, Vue, D3, Flask*]  <br>
 	- 페이스북 API를 사용한 광고 데이터 수집
 	- Python을 사용한 Cafe24 매출 데이터 수집
 	- Vue를 사용하여 매출과 광고 대시보드 구현
 <br><br>
+
 1. **사내 ERP 개발** [*Python, Vue, D3, Flask*] <br>
 	- shopify 주문 수집 및 fullfillment 기능 개발
 	- cafe24 커스텀 주문 주문서 기능 개발
 <br><br>
+
 1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** [*Python, React*]  <br>
 	- Python을 활용한 인스타그램 검색 결과수집
 	- Vue를 사용하여 해시태그 언급량 대시보드 구현 
 	- 해시태그와 해시태그 
 
-<br><hr><br> 
+<br><b>2019</b><br> 
 
 1. **2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출 , 팀 프로젝트)** [*Python*] <br>
 이미지에서 얼굴 인식 후 부위별 색상 추출<br>
@@ -82,7 +86,8 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 색상 검색 결과 최적화를 위해 HSL color space를 활용하여 색상의 계열 구분
 	- 색상 계열 구분과 색상 검색 결과를 사용하여 색상 검색 모듈 개발
 
-<br><hr><br> 
+<br><b>2018</b><br> 
+
 1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python, Jquery*] <br>
 상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
 	- 상품정보, 영양정보 입력 후 Mysql 저장가능한 관리자 페이지 구축
@@ -136,7 +141,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Data Analysis
 		- OLS을 이용하여 Regression 분석
 
-<br><hr><br> 
+<br><b>2017</b><br>
 
 1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** [*C#*]
 	- UnisimDesign, OLGA 제어 프로그램 개발
@@ -150,8 +155,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- fbx file 변환
 
 
-<br><hr><br> 
-
+<br><b>2015</b><br>
 
 1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** [*C#, GDI+, MySQL*]
 	- OTS 제어 프로그램 개발
