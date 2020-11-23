@@ -5,29 +5,39 @@ layout: default
 #  Introduce 
 <img class="profile-picture" src="rdy.jpg">
 
-류두영 / Dooyeoung Ryu / 柳斗榮 <br>
+류두영 / Dooyeoung Ryu  [**GitHub**](https://github.com/dooyeoung) <br>
 dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
-Python / Vue / D3  <br>
-Flask / HTML / Javascript / C# / Java / C++ / PHP / MySQL <br>
-[**GitHub**](https://github.com/dooyeoung)
+
+<hr>
+1. 관심분야 
+	- 데이터 시각화, 데이터 분석, 업무 자동화
+1. 보유기술 
+	- Python / Flask  <br>
+	- Vue / D3 / PHP / HTML / Javascript<br>
+	- C# / C++ / Java  <br>
+	- MySQL <br>
+
 
 ---
+# Education
+
+
 
 # Career
-1. 2020.01 –  > 시티스푸너스 IT Team
-	- cafe24 매출데이터와 페이스북 광고데이터 대시보드 구축
-	- 사내 ERP 구축 
+1. 2020.01 ~ 시티스푸너스 IT Team
+	- cafe24 매출데이터와 페이스북 광고데이터 대시보드 구축 [**link**](http://3.35.234.223:7000/analysis)
+	- 사내 ERP 구축 [**link**](http://3.35.234.223:7000/order/)
 		- shopify 자동 주문 수집 및 fullfillment 
 	- 쇼핑몰 기능 커스터마이즈
 		- 레터링 커스텀 주문 기능 개발
 
-1. 2018.11 – 2020.01 > 마이셀럽스 Data Team
+1. 2018.11 ~ 2020.01 - 마이셀럽스 Data Team
 	- 이미지 색상 추출 색상 검색 모듈 개발
 	- 마이셀럽스 키토크 점수를 활용한 컨텐츠 추천
 		- [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US),
 		[**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
-1. 2018.01 – 2018.05 > 패스트캠퍼스 (Data Sience School 7기)
-1. 2015.02 – 2017.12 > 아라엔지니어링  IT Team, 대리 
+1. 2018.01 ~ 2018.05 - 패스트캠퍼스 (Data Sience School 7기)
+1. 2015.02 ~ 2017.12 - 아라엔지니어링  IT Team, 대리 
 	- OTS(Operator Training Simulator) software 개발
 		- HYSY, DeltaV, Synergi 제어 프로그램 개발
 		- HMI instructor graphic module 개발
