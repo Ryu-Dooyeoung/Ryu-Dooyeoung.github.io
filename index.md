@@ -5,10 +5,8 @@ layout: default
 #  Introduce 
 <img class="profile-picture" src="rdy.jpg">
 
-류두영 / Dooyeoung Ryu  [**GitHub**](https://github.com/dooyeoung) <br>
+류두영 Dooyeoung Ryu  [**GitHub**](https://github.com/dooyeoung)|[**blog**](https://dooyeoung.tistory.com/) <br>
 dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
-[**blog**](https://dooyeoung.tistory.com/)
-
 <br>
 1. 관심분야 
 	- 데이터 시각화, 데이터 분석, 업무 자동화
@@ -16,8 +14,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Python / Flask  <br>
 	- Vue / D3 / PHP / HTML / Javascript<br>
 	- C# / C++ / Java  <br>
-	- MySQL <br>
-
+	- MySQL / EC2 / lambda / S3 / RDS <br>
 
 ---
 
@@ -48,11 +45,51 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ---
 
 # Project
-1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python*] <br>
+
+1. ** cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발 **  [*Python, Vue, D3, Flask*]  <br>
+	- 페이스북 API를 사용한 광고 데이터 수집
+	- Python을 사용한 Cafe24 매출 데이터 수집
+	- Vue를 사용하여 매출과 광고 대시보드 구현
+<br><br>
+1. **사내 ERP 개발 **  [*Python, Vue, D3, Flask*] <br>
+	- shopify 주문 수집 및 fullfillment 기능 개발
+	- cafe24 커스텀 주문 주문서 기능 개발
+<br><br>
+1. ** 2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축 ** [*Python, React*]  <br>
+	- Python을 활용한 인스타그램 검색 결과수집
+	- Vue를 사용하여 해시태그 언급량 대시보드 구현 
+	- 해시태그와 해시태그 
+
+<br>---<br> 
+
+1. ** 2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출 , 팀 프로젝트) ** [*Python*] <br>
+이미지에서 얼굴 인식 후 부위별 색상 추출<br>
+	- 색상 추출 모듈 개발
+	- Face-alignment를 사용하여 얼굴 인식 모듈 개발
+	- opencv를 사용하여 이미지 회전을 복원
+	- k-means를 사용하여 얼굴 부위별 색상 추출
+<br><br> 
+
+1. **2018. 10 - 2019.12 > 마이셀럽스X카카오페이지 취향 추천 모듈 구현 (팀 프로젝트) ** [*Python, Flask, Bootskrap, Jquery*] <br>
+마이셀럽스의 개체별 키토크 점수를 활용한 취향 추천
+	- 사용자 로그 데이터 대시보드 기획
+	- 장르, 배우, 감독 선호도 뿐만 아니라 키토크 별 취향 대시보드 구현
+	- 취향분석을 바탕으로 새로운 개체 추천
+<br><br> 
+
+1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 (팀 프로젝트)** [*Python, Flask, Bootskrap, Jquery*] <br>
+다수의 색상과 비율조합을 검색에 사용하여 이미지를 검색 [**link**](https://github.com/dooyeoung/e-commerce_util)
+	- k-means를 활용한 이미지 색상 추출 모듈 개발
+	- 색상 추출 모듈을 사용하여 이미지 색상 추출 후 결과 DB에 저장
+	- 색상 검색 결과 최적화를 위해 HSL color space를 활용하여 색상의 계열 구분
+	- 색상 계열 구분과 색상 검색 결과를 사용하여 색상 검색 모듈 개발
+
+<br>---<br> 
+1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python, Jquery*] <br>
 상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
-	- 상품정보, 영양정보 입력
-	- 상품이미지 일괄 제작
-	- gmarket 자동등록 기능구현
+	- 상품정보, 영양정보 입력 후 Mysql 저장가능한 관리자 페이지 구축
+	- 등록된 이미지 템플릿을 사용하여 상품이미지 제작 기능 개발
+	- selenium을 사용한 gmarket 자동등록 기능 개발
 <br><br>
 1. **2018.07 - 2018.07 > Walmart Store Sales Forecasting** [*Python*] <br>
 날씨, 매장정보, 유가, 실업률과 주별 판매량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
@@ -100,7 +137,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- train data store 별로 데이터 취합
 	- Data Analysis
 		- OLS을 이용하여 Regression 분석
-<br><br> 
+<br>---<br> 
 1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** [*C#*]
 	- UnisimDesign, OLGA 제어 프로그램 개발
 		- Unisim, Olga, Synergi 제어프로그램 개발
@@ -111,7 +148,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
 		- rvm 파일 구조 파악
 		- fbx file 변환
-<br><br>
+<br>---<br> 
 1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** [*C#, GDI+, MySQL*]
 	- OTS 제어 프로그램 개발
 		- 리펙토링, 메모리 사용 최적화
