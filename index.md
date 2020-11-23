@@ -44,9 +44,10 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ---
 
 # Project
-<br><b>2020</b><br>
+### 2020
 
-1. **cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  [*Python, Vue, D3, Flask*]  <br>
+1. **cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
+ 	[*Python, Vue, D3, Flask*] <br>
 	- 페이스북 API를 사용한 광고 데이터 수집
 	- Python을 사용한 Cafe24 매출 데이터 수집
 	- Vue를 사용하여 매출과 광고 대시보드 구현
@@ -57,53 +58,60 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- cafe24 커스텀 주문 주문서 기능 개발
 <br><br>
 
-1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** [*Python, React*]  <br>
+1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** <br>
+	 [*Python, React*]  <br>
 	- Python을 활용한 인스타그램 검색 결과수집
 	- Vue를 사용하여 해시태그 언급량 대시보드 구현 
 	- 해시태그와 해시태그 
 
-<br><b>2019</b><br> 
+### 2019 
 
-1. **2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출 , 팀 프로젝트)** [*Python*] <br>
-이미지에서 얼굴 인식 후 부위별 색상 추출<br>
+1. **2019. 10-2019.12 > 얼굴 부위별 대표 색상 추출 , 팀 프로젝트)**  <br>
+	[*Python*]<br>
+	이미지에서 얼굴 인식 후 부위별 색상 추출<br>
 	- 색상 추출 모듈 개발
 	- Face-alignment를 사용하여 얼굴 인식 모듈 개발
 	- opencv를 사용하여 이미지 회전을 복원
 	- k-means를 사용하여 얼굴 부위별 색상 추출
 <br><br> 
 
-1. **2018. 10 - 2019.12 > 마이셀럽스X카카오페이지 취향 추천 모듈 구현 (팀 프로젝트)** [*Python, Flask, Bootskrap, Jquery*] <br>
-마이셀럽스의 개체별 키토크 점수를 활용한 취향 추천
+1. **2018. 10 - 2019.12 > 마이셀럽스X카카오페이지 취향 추천 모듈 구현 (팀 프로젝트)** <br>
+ 	[*Python, Flask, Bootskrap, Jquery*]<br>
+	마이셀럽스의 개체별 키토크 점수를 활용한 취향 추천
 	- 사용자 로그 데이터 대시보드 기획
 	- 장르, 배우, 감독 선호도 뿐만 아니라 키토크 별 취향 대시보드 구현
 	- 취향분석을 바탕으로 새로운 개체 추천
 <br><br> 
 
-1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 (팀 프로젝트)** [*Python, Flask, Bootskrap, Jquery*] <br>
-다수의 색상과 비율조합을 검색에 사용하여 이미지를 검색 [**link**](https://github.com/dooyeoung/e-commerce_util)
+1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 (팀 프로젝트)** <br>
+	[*Python, Flask, Bootskrap, Jquery*] <br>
+	다수의 색상과 비율조합을 검색에 사용하여 이미지를 검색 [**link**](https://github.com/dooyeoung/e-commerce_util)
 	- k-means를 활용한 이미지 색상 추출 모듈 개발
 	- 색상 추출 모듈을 사용하여 이미지 색상 추출 후 결과 DB에 저장
 	- 색상 검색 결과 최적화를 위해 HSL color space를 활용하여 색상의 계열 구분
 	- 색상 계열 구분과 색상 검색 결과를 사용하여 색상 검색 모듈 개발
 
-<br><b>2018</b><br> 
+### 2018 
 
-1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** [*Python, Jquery*] <br>
-상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
+1. **2018.08 - 2018.09 > e-commerce 상품 이미지 제작 및 자동등록 서비스** <br>
+	 [*Python, Jquery*]<br>
+	상품 기본 정보 입력후 상품 정보 이미지 자동 제작 및 자동등록 기능 [**link**](https://github.com/dooyeoung/e-commerce_util)
 	- 상품정보, 영양정보 입력 후 Mysql 저장가능한 관리자 페이지 구축
 	- 등록된 이미지 템플릿을 사용하여 상품이미지 제작 기능 개발
 	- selenium을 사용한 gmarket 자동등록 기능 개발
 <br><br>
-1. **2018.07 - 2018.07 > Walmart Store Sales Forecasting** [*Python*] <br>
-날씨, 매장정보, 유가, 실업률과 주별 판매량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
+1. **2018.07 - 2018.07 > Walmart Store Sales Forecasting**<br>
+	 [*Python, Pandas, Matplotlib*]  <br>
+	날씨, 매장정보, 유가, 실업률과 주별 판매량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
 	- Data Preprocessing
 		- 날씨별, 시간별 데이터 파악 
 	- Data Analysis 
 		- Gradient boost regressor를 사용하여 분석
 		- fbpophet을 사용하여 시계열 분석
 <br><br>
-1. **2018.05 - 2018.05 > Bike Sharing Demand** [*Python*] <br>
-날씨와 시간 데이터를 통해 자전거 대여량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
+1. **2018.05 - 2018.05 > Bike Sharing Demand**<br>
+	 [*Python, Pandas, Matplotlib*]  <br>
+	날씨와 시간 데이터를 통해 자전거 대여량 예측  [**link**](https://github.com/dooyeoung/bike_sharing_demand)
 	- Data Preprocessing
 		- 날씨별, 시간별 데이터 파악 
 	- Data Analysis
@@ -111,8 +119,9 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- Gradient boost regressor를 사용하여 분석
 		- Xgboostregressor를 사용하여 분석 
 <br><br>
-1. **2018.04 - 2018.04 > Recommend coordination** [*Python, MySQL, Bootstrap, JQuery*] <br>
-웹 코디 이미지 색상 분석을 이용한 coordination 추천  [**link**](https://github.com/dooyeoung/codi_recommendation)
+1. **2018.04 - 2018.04 > Recommend coordination** <br>
+ 	[*Python, MySQL, Bootstrap, JQuery*] <br>
+	웹 코디 이미지 색상 분석을 이용한 coordination 추천  [**link**](https://github.com/dooyeoung/codi_recommendation)
 	- 데이터 크롤링 및 데이터베이스 구축
 		- Phantomjs로 Mapssi 코디 데이터 크롤링
 		- 이미지 주소, 색상 데이터 MySQL 저장
@@ -124,7 +133,8 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- bootstrap으로 레이아웃 구성
 		- RGB값을 KNN을 사용하여 검색기능 구성
 <br><br>
-1. **2018.03 - 2018.04 > Walmart Trip Type Classification** [*Python*] <br>
+1. **2018.03 - 2018.04 > Walmart Trip Type Classification**<br>
+ [*Python, Pandas, Matplotlib*] <br>
 구매 품목과 수량으로 고객을 38개로 분류  [**link**](https://github.com/dooyeoung/walmart_recruiting_trip_type_classification)
 	- Data Preprocessing
 		- 상품 Missing value 처리
@@ -133,7 +143,8 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- Xgboost를 사용하여 classification 분석
 		- LightGBM을 사용하여 classification 분석
 <br><br>
-1. **2018.02 – 2018.03 > Walmart : Sales in Stormy Weather** [*Python*] <br>
+1. **2018.02 – 2018.03 > Walmart : Sales in Stormy Weather** <br>
+ [*Python, Pandas, Matplotlib*]<br>
 날씨를 토대로 각 매장의 아이템의 판매량을 예측  [**link**](https://github.com/dooyeoung/walmart_recruiting2_stormy_weather)
 	- Data Preprocessing
 		- weather data missing value 처리
@@ -141,36 +152,42 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Data Analysis
 		- OLS을 이용하여 Regression 분석
 
-<br><b>2017</b><br>
+### 2017 
 
-1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** [*C#*]
+1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** <br>
+	 [*C#, TCP/IP*] <br>
 	- UnisimDesign, OLGA 제어 프로그램 개발
 		- Unisim, Olga, Synergi 제어프로그램 개발
 		- OPC Client 기능 구현
 		- TCP/IP 기반으로 제어 모듈 개발
 <br><br>
-1. **2017.07 – 2017.09 > RVM Utility 개발 (아라엔지니어링/IT)** [*C#*]
+
+1. **2017.07 – 2017.09 > RVM Utility 개발 (아라엔지니어링/IT)** <br>
+	 [*C#, 3D*]<br>
 	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
 		- rvm 파일 구조 파악
 		- fbx file 변환
 
 
-<br><b>2015</b><br>
+### 2015 
 
-1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** [*C#, GDI+, MySQL*]
+1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** <br>
+	[*C#, GDI+, MySQL*]<br>
 	- OTS 제어 프로그램 개발
 		- 리펙토링, 메모리 사용 최적화
 		- 디자인패턴적용, 클래스 재구성
 		- MariaDB를 통한 데이터 관리
 <br><br>
-1. **2015.01–2015.07 > Chart component 개발 (아라엔지니어링/IT)** [*C#, GDI+*]
+1. **2015.01–2015.07 > Chart component 개발 (아라엔지니어링/IT)**
+	 [*C#, GDI+*] 
 	- C# Component기획 및 개발
 		- GDI+를 사용하여 개발 진행
 		- Multiple Axis 기능 구현
 		- 드래그를 이용한 Zoom 기능 구현
 		- Mouse tracking 기능 구현
 <br><br>
-1. **2017.03-2017.05 > 빈강의실 자리예약 시스템** [*PHP, MySQL, Bootstrap, JQuery*]
+1. **2017.03-2017.05 > 빈강의실 자리예약 시스템**
+	 [*PHP, MySQL, Bootstrap, JQuery*]
 	- 기획 및 개발
 		- php, mysql로 도서관 자리예약 시스템 개발
 		- Bootstrap으로 레이아웃 디자인
