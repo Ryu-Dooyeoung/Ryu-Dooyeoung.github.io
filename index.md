@@ -25,7 +25,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- shopify 자동 주문 수집 및 fullfillment 
 	- 쇼핑몰 기능 커스터마이즈
 		- 레터링 커스텀 주문 기능 개발
-
+<br><br>
 1. **2018.11 - 2020.01 - 마이셀럽스 Data Team**
 	- 이미지 색상 추출 색상 검색 모듈 개발
 	- 마이셀럽스 [**Glamai**](https://play.google.com/store/apps/details?id=com.mycelebs.glamai&hl=ko&gl=US)
@@ -33,16 +33,16 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 영화 검색 및 추천 서비스 [**Maimovie**](https://play.google.com/store/apps/details?id=com.mycelebs.maimovie&hl=ko&gl=US) 
 		- 영화 리뷰에서 추출한 키워드 점수를 활용한 추천 
 		- 사용자가 선택한 영화의 키워드 점수를 시각화 하여 취향 대시보드 구현
-		
+<br><br>		
 1. **2018.01 - 2018.05 > 패스트캠퍼스 (Data Sience School 7기)**
-
+<br><br>
 1. **2015.02 - 2017.12 > 아라엔지니어링  IT Team, 대리**
 	- OTS(Operator Training Simulator) software 개발
 		- HYSY, DeltaV, Synergi 제어 프로그램 개발
 		- HMI instructor graphic module 개발
 	- PDMS utility software 개발
 		- \*.rvm file converter 개발
-
+<br><br>
 ---
 
 # Project
