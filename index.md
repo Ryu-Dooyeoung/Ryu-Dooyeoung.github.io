@@ -15,7 +15,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Vue / D3 / PHP / HTML / Javascript<br>
 	- C# / C++ / Java  <br>
 	- MySQL / EC2 / lambda / S3 / RDS <br>
-
+<br><br>
 ---
 
 # Career
@@ -44,7 +44,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- \*.rvm file converter 개발
 <br><br>
 ---
-
 # Project
 ## 2020
 1. **2020.09 - 2020. 11 Cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
