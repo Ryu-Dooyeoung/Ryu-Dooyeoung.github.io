@@ -16,6 +16,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- C# / C++ / Java  <br>
 	- MySQL / EC2 / lambda / S3 / RDS <br>
 <br><br>
+
 ---
 
 # Career
@@ -43,7 +44,9 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- PDMS utility software 개발
 		- \*.rvm file converter 개발
 <br><br>
+
 ---
+
 # Project
 ## 2020
 1. **2020.09 - 2020. 11 Cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
@@ -228,4 +231,5 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- Bootstrap으로 레이아웃 디자인
 		- 간단한 검색기능, 임차인, 임대인 기능 구현
 <br><br>
+
 ---
