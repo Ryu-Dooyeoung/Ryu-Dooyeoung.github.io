@@ -49,14 +49,14 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 # Project
 ## 2020
-1. **2020.09 - 2020. 11 Cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
+1. **2020.09 - 2020. 11 > Cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
  	[Python, Vue, D3, Flask] <br>
 	
 	- 페이스북 API를 사용한 광고 데이터 수집
 	- Python을 사용한 Cafe24 매출 데이터 수집
 	- Vue, D3를 사용하여 매출과 광고 대시보드 구현
 <br><br>
-1. **2020.06 - 2020. 11 사내 ERP 개발**  <br>
+1. **2020.06 - 2020. 11 > 사내 ERP 개발**  <br>
 	[Python, Vue, D3, Flask]<br>
 	
 	- shopify 주문 수집 및 fullfillment 기능 개발
