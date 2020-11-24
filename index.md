@@ -49,11 +49,14 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ## 2020
 1. **2020.09 - 2020. 11 Cafe24 매출 데이터, 페이스북 광고데이터 대시보드 개발**  <br>
  	[Python, Vue, D3, Flask] <br>
+	
 	- 페이스북 API를 사용한 광고 데이터 수집
 	- Python을 사용한 Cafe24 매출 데이터 수집
 	- Vue, D3를 사용하여 매출과 광고 대시보드 구현
 <br><br>
-1. **2020.06 - 2020. 11 사내 ERP 개발** [Python, Vue, D3, Flask] <br>
+1. **2020.06 - 2020. 11 사내 ERP 개발**  <br>
+	[Python, Vue, D3, Flask]<br>
+	
 	- shopify 주문 수집 및 fullfillment 기능 개발
 	- cafe24 커스텀 주문 주문서 기능 개발
 <br><br>
@@ -160,6 +163,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ## 2017 
 1. **2017.05 – 2017.12 > OLGA Extension 개발 (아라엔지니어링/IT)** <br>
 	 [C#, TCP/IP] <br>
+	 
 	- UnisimDesign, OLGA 제어 프로그램 개발
 		- Unisim, Olga, Synergi 제어프로그램 개발
 		- OPC Client 기능 구현
@@ -167,6 +171,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2017.07 – 2017.09 > RVM Utility 개발 (아라엔지니어링/IT)** <br>
 	 [C#, 3D]<br>
+	 
 	- Aveva E3D rvm 파일을 fbx파일로 변환하는 모듈 [**link**](https://github.com/ryudooyeoung/RVMUtility)
 		- rvm 파일 구조 파악
 		- fbx file 변환
@@ -175,6 +180,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 ## 2015 
 1. **2015.08–2016.07 > OMGP OTS 프로젝트 (아라엔지니어링/IT)** <br>
 	[C#, GDI+, MySQL]<br>
+	
 	- OTS 제어 프로그램 개발
 		- 리펙토링, 메모리 사용 최적화
 		- 디자인패턴적용, 클래스 재구성
@@ -182,6 +188,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2015.01–2015.07 > Chart component 개발 (아라엔지니어링/IT)**  <br>
 	 [C#, GDI+] <br>
+	 
 	- C# Component기획 및 개발
 		- GDI+를 사용하여 개발 진행
 		- Multiple Axis 기능 구현
@@ -190,6 +197,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2017.03-2017.05 > 빈강의실 자리예약 시스템**  <br>
 	 [PHP, MySQL, Bootstrap, JQuery] <br>
+	 
 	- 기획 및 개발
 		- php, mysql로 도서관 자리예약 시스템 개발
 		- Bootstrap으로 레이아웃 디자인
@@ -199,6 +207,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2015.11–2015.12 > 설문조사 서비스**  <br>
  	[PHP, MySQL, Bootstrap, JQuery] <br>
+	
 	- 기획 및 개발
 		- php, mysql를 이용한 설문조사 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
@@ -206,6 +215,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2015.10–2015.11 > 단어장 서비스**   <br>
 	[PHP, MySQL, Bootstrap, JQuery] <br>
+	
 	- 기획 및 개발
 		- php, mysql를 이용한 단어장 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
@@ -213,10 +223,10 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br><br>
 1. **2015.08–2015.10 > 원룸 검색 서비스**  <br>
 	[PHP, MySQL, Bootstrap, JQuery, FPBatis] <br>
+	
 	- 기획 및 개발 [**link**](http://13.209.50.95:8877/room/)
 		- php, mysql를 이용한 원룸 검색 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
 		- 간단한 검색기능, 임차인, 임대인 기능 구현
-
 <br><br>
 ---
