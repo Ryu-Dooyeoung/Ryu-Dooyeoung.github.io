@@ -24,6 +24,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 페이스북 광고데이터, cafe24 매출데이터 대시보드 구축 [**link**](http://3.35.234.223:7000/analysis)
 	- 사내 ERP 구축 [**link**](http://3.35.234.223:7000/order/)
 	- 인스타그램 특정 검색어 검색결과 대시보드 구축
+	- Cafe24 GA, GTM 설정
 	- Cafe24, Shopify 기능 커스터마이즈
 <br><br>
 1. **2018.11 - 2020.01 - 마이셀럽스 Data Team**
