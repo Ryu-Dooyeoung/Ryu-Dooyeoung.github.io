@@ -21,11 +21,10 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 
 # Career
 1. **2020.01 > 시티스푸너스 IT Team**
-	- cafe24 매출데이터와 페이스북 광고데이터 대시보드 구축 [**link**](http://3.35.234.223:7000/analysis)
+	- 페이스북 광고데이터, cafe24 매출데이터 대시보드 구축 [**link**](http://3.35.234.223:7000/analysis)
 	- 사내 ERP 구축 [**link**](http://3.35.234.223:7000/order/)
-		- shopify 자동 주문 수집 및 fullfillment 
-	- 쇼핑몰 기능 커스터마이즈
-		- 레터링 커스텀 주문 기능 개발
+	- 인스타그램 특정 검색어 검색결과 대시보드 구축
+	- Cafe24, Shopify 기능 커스터마이즈
 <br><br>
 1. **2018.11 - 2020.01 - 마이셀럽스 Data Team**
 	- 이미지 색상 추출 색상 검색 모듈 개발
@@ -44,7 +43,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- PDMS utility software 개발
 		- \*.rvm file converter 개발
 
-
 ---
 
 # Project
@@ -59,15 +57,19 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 1. **2020.06 - 2020. 11 > 사내 ERP 개발**  <br>
 	[Python, Vue, D3, Flask]<br>
 	
-	- shopify 주문 수집 및 fullfillment 기능 개발
-	- cafe24 커스텀 주문 주문서 기능 개발
+	- AWS EC2 환경에서 Flask와 Nuxt.js를 사용하여 구축
+	- Shopify API를 사용한 주문 수집
+	- Google API를 사용하여 주문 내용 Gsheet 입력
+	- Cafe24 API를 사용한 커스텀 제품 주문서 뷰어 개발
+	- 실시간 Cafe24 주문 알림 Slack bot 개발
+	
 <br><br>
 1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** <br>
 	 [Python, React]  <br>
 
 	- Python을 활용한 인스타그램 검색 결과수집
 	- Vue를 사용하여 해시태그 언급량 대시보드 구현 
-	- 해시태그와 해시태그 
+
 
 ## 2019 
 1. **2019. 10 - 2019.12 > 얼굴 부위별 대표 색상 추출**  <br>
