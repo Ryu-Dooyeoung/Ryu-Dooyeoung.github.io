@@ -15,7 +15,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Vue / D3 / PHP / HTML / Javascript<br>
 	- C# / C++ / Java  <br>
 	- MySQL / EC2 / lambda / S3 / RDS <br>
-<br><br>
+
 
 ---
 
@@ -43,7 +43,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- HMI instructor graphic module 개발
 	- PDMS utility software 개발
 		- \*.rvm file converter 개발
-<br><br>
+
 
 ---
 
@@ -230,6 +230,6 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 		- php, mysql를 이용한 원룸 검색 서비스 구현
 		- Bootstrap으로 레이아웃 디자인
 		- 간단한 검색기능, 임차인, 임대인 기능 구현
-<br><br>
+
 
 ---
