@@ -62,8 +62,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- Shopify API를 사용한 주문 수집
 	- Google API를 사용하여 주문 내용 Gsheet 입력
 	- Cafe24 API를 사용한 커스텀 제품 주문서 뷰어 개발
-	- 실시간 Cafe24 주문 알림 Slack bot 개발
-	
+	- 실시간 Cafe24 주문 알림 Slack bot 개발	
 <br><br>
 1. **2020.02 - 2020. 03 > 인스타그램 특정 검색어 검색결과 수집 및 대시보드 구축** <br>
 	 [Python, React]  <br>
@@ -90,7 +89,7 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 	- 장르, 배우, 감독 선호도 뿐만 아니라 키토크 별 취향 대시보드 구현
 	- 취향분석을 바탕으로 새로운 개체 추천
 <br><br> 
-1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발 ** <br>
+1. **2018. 10 - 2019.12 > 이미지 색상을 기반으로한 검색 모듈 개발** <br>
 	[Python, Flask, Bootskrap, Jquery] <br>
 
 	다수의 색상과 비율조합을 검색에 사용하여 이미지를 검색 [**link**](https://github.com/dooyeoung/e-commerce_util)
