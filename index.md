@@ -10,6 +10,12 @@ dooyeoung.ryu@gmail.com / 010-5061-2576 <br>
 <br>
 1. 관심분야 
 	- 데이터 시각화, 데이터 분석, 업무 자동화
+1. 학습내용 
+	- Google Datastudio 활용
+	- Python Selenium을 사용한 데이터 수집 자동화
+	- Redash를 사용한 사내 Dashboard 구축
+	- AWS Serverless 업무환경 구축
+	- D3를 사용한 데이터시각화
 1. 보유기술 
 	- Python / Flask  <br>
 	- Vue / D3 / PHP / HTML / Javascript<br>
